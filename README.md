@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rachida Moujan</h1>
 <h3 align="center">A passionate Backend developer from Morocco</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rmoujan&label=Profile%20views&color=0e75b6&style=flat" alt="rmoujan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rmoujan" alt="rmoujan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center">I focus on making sure the behind-the-scenes of websites and apps work smoothly. I enjoy coding for servers, dealing with databases, and conception of projects.</p>
 
 - 🌱 I’m currently learning **nodejs reactjs**
 

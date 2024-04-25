@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rachida Moujan</h1>
-<h3 align="center">A passionate Backend developer from Morocco</h3>
+<h3 align="center">A passionate Software Developer from Morocco</h3>
 <p align="center">I focus on making sure the behind-the-scenes of websites and apps work smoothly. I enjoy coding for servers, dealing with databases, and conception of projects.</p>
 
 - 🌱 I’m currently learning **nodejs reactjs**

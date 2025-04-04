@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/rachida-moujan-297424285/**
 
-https://badge.mediaplus.ma/landscapes/rmoujan
-[![rmoujan's 42 stats](https://badge.mediaplus.ma/landscapes/rmoujan)](https://github.com/oakoudad/badge42)
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/landscapes/rmoujan" alt="rmoujan's 42 stats" /></a>
 
 <h3 align="left">Languages and Tools:</h3>

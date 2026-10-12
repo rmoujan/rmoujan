@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rachida Moujan</h1>
 <h3 align="center">A passionate Software Engineer from Morocco</h3>
-<p align="center">I focus on making sure the behind-the-scenes of websites and apps work smoothly. I enjoy coding for servers, dealing with databases, and conception of projects.</p>
+<p align="center">I’m a software engineer passionate about coding, problem-solving, and building efficient, reliable software. I enjoy understanding how things work under the hood, designing efficient systems, and building reliable applications, particularly on the backend.</p>
 
-- 🌱 I’m currently learning **nodejs reactjs**
+- 🌱 I’m currently focusing on **backend development with Node.js**, exploring backend frameworks, and strengthening my **problem-solving and algorithmic thinking** through coding challenges.
 
 - 📫 How to reach me **https://www.linkedin.com/in/rachida-moujan-297424285/**
 
